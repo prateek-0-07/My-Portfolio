@@ -124,7 +124,7 @@ button{font:inherit}
   z-index:3;
   pointer-events:none;
 }
-}
+
 .profile-card>h2{font:700 32px "Space Grotesk"}
 .profile-card>p{color:var(--muted);font-size:12px;margin-top:5px}
 .card-line{height:1px;background:var(--line);margin:22px 0}
